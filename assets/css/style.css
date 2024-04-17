@@ -271,6 +271,7 @@ header nav a.bold {
 
 .products h2 span{
     color: var(--secondary);
+    font-family: 'Grandstander';
 }
 
 .products .grid {
@@ -354,6 +355,7 @@ header nav a.bold {
 
 .faq h2 span {
     color: var(--secondary);
+    font-family: 'Grandstander';
 }
 
 .faq .accordion .item {
